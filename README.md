@@ -1,4 +1,4 @@
-Ing.Jesús Matías R.González\
+Ing.Jesús Matías R.González
 
 # Numpy y compresión de listas! [Python]
 En este repositorio encontrarán los siguientes archivos:
